@@ -2,6 +2,7 @@
 A Pen by SHOIE SOMANATH on CodePen.
 
 When I can click a button to show me a new random quote.
+
 Option for sharing favourite Quote on Twitter
 
 
